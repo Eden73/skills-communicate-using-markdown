@@ -18,3 +18,10 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ```
 
 Added a code example
+
+- [ ] Suits Season 7
+- [x] Introduction to Cloud
+- [ ] Complete Python MIT
+- [ ] SQL or any database
+
+Added task list
