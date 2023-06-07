@@ -11,3 +11,10 @@ Added different header tags
 ![Wrench](https://w0.peakpx.com/wallpaper/964/635/HD-wallpaper-wrench-character-game-hacker-watch-dogs-2.jpg)
 
 Added an image of Wrench
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+Added a code example
